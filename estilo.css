@@ -1,0 +1,55 @@
+body {
+    font-family: "Tahoma", sans-serif;
+    font-size: 12px;
+}
+
+#formulario {
+    border: solid 2px #b7ddf2;
+    background: #b7ddf2;
+    margin: 20px auto;
+    width: 420px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#linea {
+    color: #666666;
+    border-bottom: solid 1px #fff;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+#caja {
+    padding: 4px;
+    border: solid 1px #aacfe4;
+    margin: 5px 0 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#boton {
+    margin: 10px 5px 0 0;
+    width: 125px;
+    height: 31px;
+    background: #666666;
+    text-align: center;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
